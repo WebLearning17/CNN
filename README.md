@@ -1,2 +1,2 @@
-# CNN
-pytorch 实现卷积神经网络模型
+# pytorchExample
+pytorch神经网络的一些实现
